@@ -1,0 +1,5 @@
+--test
+
+submission(created_utc=1614218296, subreddit='wallstreetbets', title='If/When AMC stock hits $1k a share, I�ll get a tattoo of the logo on my arm! Holding 275 @ $15.39', url='https://i.redd.it/r3ke43986jj61.jpg', created=1614214696.0, d_={'created_utc': 1614218296, 'subreddit': 'wallstreetbets', 'title': 'If/When AMC stock hits $1k a share, I�ll get a tattoo of the logo on my arm! Holding 275 @ $15.39', 'url': 'https://i.redd.it/r3ke43986jj61.jpg', 'created': 1614214696.0})
+1614218296
+If/When AMC stock hits $1k a share, I�ll get a tattoo of the logo on my arm! Holding 275 @ $15.39
